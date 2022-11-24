@@ -28,11 +28,11 @@ meu objetivo é desenvolver minha carreira como programador.
 - [Estrutura de dados e Algoritmos com JavaScript](https://github.com/JeanFragaJS/algoritmos-e-estrutura-de-dados-javascript).
 - [Desafio da faculdade para calcular impostos e peças de um carro](https://github.com/JeanFragaJS/Project-University-C-).
 - [Desafio da empresa VTEX para alavancar o ticket médio do ecommerce](https://github.com/HamiltonLopes/combinationsAPI). 
-  - Onde eu, junto com meu squad, obtemos o segundo lugar da competição.
+  - Nesse projeto, eu junto com meu squad, obtemos o segundo lugar da competição.
 - [Colors React App](https://github.com/JeanFragaJS/colors-react-app) - Clone do website [Flat UI Colors](https://flatuicolors.com/) e [Material UI Colors](http://materialuicolors.co/?utm_source=launchers) em andamento.  
 - [API Node.JS que avalia as condições meteorológicas para surfar.](https://github.com/JeanFragaJS/nodejs-typescript-api). 
 - [API de Enquentes para prática de TDD, DDD e SOLID](https://github.com/JeanFragaJS/clean-node-api), em andamento.
-- [MY PET](https://github.com/JeanFragaJS/my-pet-api),API para cadastro de pets e seus rescpectivos proprietários. 
+- [MY PET](https://github.com/JeanFragaJS/my-pet-api), API para cadastro de pets e seus rescpectivos proprietários. 
 
 
 
