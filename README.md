@@ -1,8 +1,8 @@
-#  Jean Fraga | Desenvolvedor FullStak JavaScript
+#  *Jean Fraga* | Desenvolvedor FullStak JavaScript
 
-👋 Oi ! Eu sou o Jean, sou brasileiro e moro no Rio de Janeiro. 
-Atualmente estudante universitário de Análise e Desenvolvimento de Sistemas e
-meu objetivo é desenvolver minha carreira como programador.
+👋 Oi ! Eu sou o Jean, sou brasileiro e moro no Rio de Janeiro. <br/>
+👨‍🎓 Atualmente estudante universitário de Análise e Desenvolvimento de Sistemas. <br/>
+🎯 Meu objetivo é desenvolver minha carreira como programador.
 
 ### 🛠️ Competências que domínio ou já tive contato: 
 - JavaScript
